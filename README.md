@@ -4,7 +4,7 @@ Port Harcourt, Nigeria · Open to Junior Data Analyst, BI Analyst, Reporting Ana
 I turn raw data into clear dashboards and reports that help teams make better decisions. My background in Linguistics and Communication helps me explain findings clearly to non-technical teams.
 Email: usfaith822@gmail.com · LinkedIn: faith-usenideh · CV: Download PDF
 ---
-Featured Projects:
+Featured Projects
 Project	Tools	What it shows
 Hospital Admissions & Treatment Outcomes	Excel, Power BI	Cleaned 984 patient records and built a 6-page dashboard. Found a 26.8% readmission rate and that patients aged 56+ make up 83% of referrals
 Airbnb Pricing & Revenue Analysis (coming soon)	SQL	6 business questions on neighbourhood revenue and pricing
@@ -17,7 +17,7 @@ Data quality: Data cleaning, annotation, labelling and quality control
 AI tools: AI workflow automation and agentic AI tools
 Currently learning: Python, Tableau
 ---
-Experience:
+Experience
 AI Annotation Specialist · Atlas Capture · 2026
 Annotated and reviewed first-person video data for AI model training, with accurate timestamps and consistent labels.
 Reviewed and corrected labels to improve dataset quality and consistency.
