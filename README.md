@@ -17,7 +17,7 @@ Data quality: Data cleaning, annotation, labelling and quality control
 AI tools: AI workflow automation and agentic AI tools
 Currently learning: Python, Tableau
 ---
-Experience
+Experience:
 AI Annotation Specialist · Atlas Capture · 2026
 Annotated and reviewed first-person video data for AI model training, with accurate timestamps and consistent labels.
 Reviewed and corrected labels to improve dataset quality and consistency.
