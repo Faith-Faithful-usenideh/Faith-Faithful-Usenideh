@@ -15,7 +15,7 @@ I turn raw data into clear dashboards and reports that help teams make better de
 | Project | Tools | What it shows |
 | --- | --- | --- |
 | [Hospital Admissions & Treatment Outcomes](https://github.com/Faith-Faithful-usenideh/hospital-admissions-dashboard) | Excel, Power BI | Cleaned 984 patient records and built a 6-page dashboard. Found a 26.8% readmission rate and that patients aged 56+ make up 83% of referrals |
-| Airbnb Pricing & Revenue Analysis *(coming soon)* | SQL | 6 business questions on neighbourhood revenue and pricing |
+| [Where the Money Is in Seattle's Airbnb Market](https://github.com/Faith-Faithful-usenideh/airbnb-sql-analysis) | SQL Server | Analysed 6,442 listings with CTEs, JOINs and data cleaning. Found Belltown leads with $18.93M and 81% of revenue comes from listings under $700 |
 | HR Workforce Analysis *(coming soon)* | Excel | Workforce demographics, hiring trends and drivers of employee exits |
 
 ---
