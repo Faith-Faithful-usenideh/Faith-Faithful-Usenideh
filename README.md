@@ -6,7 +6,7 @@ Port Harcourt, Nigeria · Open to Junior Data Analyst, BI Analyst, Reporting Ana
 
 I turn raw data into clear dashboards and reports that help teams make better decisions. My background in Linguistics and Communication helps me explain findings clearly to non-technical teams.
 
-**Email:** usfaith822@gmail.com · **LinkedIn:** [faith-usenideh](https://www.linkedin.com/in/faith-usenideh-435045234) · **CV:** [Download PDF]((https://github.com/Faith-Faithful-usenideh/Faith-Faithful-Usenideh/blob/main/Faith-Usenideh-Data-Analyst-CV_2.pdf))
+**Email:** usfaith822@gmail.com · **LinkedIn:** [faith-usenideh](https://www.linkedin.com/in/faith-usenideh-435045234) · **CV:** [Download PDF](https://github.com/Faith-Faithful-usenideh/Faith-Faithful-Usenideh/blob/main/Faith-Usenideh-Data-Analyst-CV_2.pdf)
 
 ---
 
