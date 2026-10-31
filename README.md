@@ -8,6 +8,8 @@ I turn raw data into clear dashboards and reports that help teams make better de
 
 **Email:** usfaith822@gmail.com · **LinkedIn:** [faith-usenideh](https://www.linkedin.com/in/faith-usenideh-435045234) · **CV:** [Download PDF](https://github.com/Faith-Faithful-usenideh/Faith-Faithful-Usenideh/blob/main/Faith-Usenideh-Data-Analyst-CV_2.pdf)
 
+**Portfolio website:** [faith-faithful-usenideh.github.io](https://faith-faithful-usenideh.github.io)
+
 ---
 
 ## Featured Projects
