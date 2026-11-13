@@ -16,6 +16,7 @@ I turn raw data into clear dashboards and reports that help teams make better de
 
 | Project | Tools | What it shows |
 | --- | --- | --- |
+| [AI Data Analyst Agent](https://github.com/Faith-Faithful-usenideh/ai-data-analyst-agent) · [case study](https://faith-faithful-usenideh.github.io/projects/ai-data-analyst-agent.html) | n8n, Google Gemini, JavaScript, Power BI | Built an agent that cleans and analyses any CSV or Excel file and explains it in plain English. Testing on 6 messy files exposed wrong answers in version 1; version 2 fixed them and turns each upload into a report, dashboard and Power BI-ready workbook |
 | [Hospital Admissions & Treatment Outcomes](https://github.com/Faith-Faithful-usenideh/hospital-admissions-dashboard) | Excel, Power BI | Cleaned 984 patient records and built a 6-page dashboard. Found a 26.8% readmission rate and that patients aged 56+ make up 83% of referrals |
 | [Where the Money Is in Seattle's Airbnb Market](https://github.com/Faith-Faithful-usenideh/airbnb-sql-analysis) | SQL Server | Analysed 6,442 listings with CTEs, JOINs and data cleaning. Found Belltown leads with $18.93M and 81% of revenue comes from listings under $700 |
 | [Why Good People Leave: HR Analytics Dashboard](https://github.com/Faith-Faithful-usenideh/hr-analytics-dashboard) | Excel, Power Pivot, DAX | Built a KPI dashboard for 961 R&D employees and found overtime triples the leave rate (27.3% vs 8.6%) |
@@ -27,7 +28,7 @@ I turn raw data into clear dashboards and reports that help teams make better de
 - **Data analysis:** Microsoft Excel (advanced), SQL
 - **Visualisation:** Power BI (dashboards, DAX, KPI reporting)
 - **Data quality:** Data cleaning, annotation, labelling and quality control
-- **AI tools:** AI workflow automation and agentic AI tools
+- **AI tools:** n8n workflow automation, Google Gemini, AI agents
 - **Currently learning:** Python, Tableau
 
 ---
